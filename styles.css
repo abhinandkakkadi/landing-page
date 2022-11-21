@@ -1,7 +1,7 @@
 
 body{
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 .header{
     background-color: #1F2937;
@@ -51,13 +51,15 @@ a{
     
     justify-content: center;
     gap: 30px;
-    padding: 100px;
+    padding: 20px;
     align-items: center;
+    margin-top: auto;
     
 }
 
 h2{
     text-align: center;
+    margin-top: 50px;
 }
 
 .quotes{
@@ -86,6 +88,8 @@ h2{
     padding: 50px;
     justify-content:space-around;
     height: 40px;
+    width:1000px;
+    border-radius: 1ch;
     
     margin: 50px;
     align-items: center;
@@ -102,6 +106,15 @@ h2{
     line-height:0%;
 }
 
-h1{
-    
+.chead{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    border-radius: 1ch;
+    padding: 10px;
+    background-color:  #3882F6;
+    color: white;
+    border: 1px solid wheat;
 }
