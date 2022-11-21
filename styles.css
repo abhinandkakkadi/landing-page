@@ -60,10 +60,20 @@ h3{
 .quotes{
     border: 5px solid black;
     height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
 }
 
 .quotes p{
     width: 700px;
-    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.quotes h5{
+    margin-left: 400px;
+    margin-top: 1px;
 }
 
