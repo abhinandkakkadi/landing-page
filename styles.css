@@ -8,9 +8,10 @@ body{
     color: aliceblue;
     margin: 0;
     padding: 60px;
-    padding-top: 20px;
+    padding-top: 10px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
     
 }
 .links{
