@@ -77,3 +77,23 @@ h3{
     margin-top: 1px;
 }
 
+.contact{
+    display: flex;
+    padding: 50px;
+    justify-content:space-around;
+    height: 40px;
+    border: 2px solid black;
+    margin: 50px;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+    
+}
+
+.contact div{
+    
+}
+
+.heightadjust{
+    line-height:0%;
+}
