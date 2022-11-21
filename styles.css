@@ -43,3 +43,27 @@ a{
     width: 400px;
    
 }
+
+.img-place{
+    display: flex;
+    border: 5px solid black;
+    justify-content: center;
+    gap: 30px;
+    padding: 100px;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+.quotes{
+    border: 5px solid black;
+    height: 200px;
+}
+
+.quotes p{
+    width: 700px;
+    align-items: center;
+}
+
